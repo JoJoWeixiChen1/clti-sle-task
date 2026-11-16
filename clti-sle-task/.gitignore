@@ -1,0 +1,5 @@
+submission/
+.Rhistory
+.RData
+*.zip
+__pycache__/

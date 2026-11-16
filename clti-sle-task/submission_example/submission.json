@@ -1,0 +1,22 @@
+{
+  "analysis_script": "submission/analysis.R",
+  "report": "submission/report.md",
+  "predictions": "submission/predictions.csv",
+  "seed": 1,
+  "audit": {
+    "sample_flow": "State cohort counts and inclusion/exclusion in report.md",
+    "assay_review": "Describe checks of laboratory labels and measurements",
+    "measurement_limits": "Describe decisions about detection limits and unavailable values",
+    "sample_structure": "Describe multivariate diagnostics and whether sample/plate structure affected exclusions",
+    "cross_site_measurements": "Describe how site 1 and site 2 measurements were compared or aligned",
+    "exploratory_inference": "Describe any per-assay associations and error-rate control; explain if not done",
+    "time_to_event": "Define horizon, censoring and competing-event handling",
+    "model_selection": "Describe site 1 selection, tuning, score construction, and freeze point",
+    "evidence_paths": []
+  },
+  "excluded_samples": [],
+  "selected_assays": {
+    "version_a": [],
+    "version_b": []
+  }
+}

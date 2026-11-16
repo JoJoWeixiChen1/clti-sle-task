@@ -1,0 +1,64 @@
+{
+  "seed": 2026111602,
+  "prognostic_proteins_selected": false,
+  "sites": {
+    "site1": {
+      "patients": 325,
+      "proteins": 2923,
+      "bridge_samples": 20,
+      "long_rows": 1008435,
+      "missing_fraction_min": 0.003076923076923088,
+      "missing_fraction_max": 0.4492307692307692,
+      "proteins_missing_over_20pct": 350,
+      "below_lod_overall_observed": 0.0071036501486128716,
+      "below_lod_max_per_protein_observed": 0.017482517482517484,
+      "outlier_ids": [
+        "S1-047",
+        "S1-069",
+        "S1-144",
+        "S1-299",
+        "S1-311",
+        "S1-320"
+      ],
+      "outlier_wells": [
+        "D7",
+        "D6",
+        "C7",
+        "B6",
+        "B7",
+        "C6"
+      ],
+      "perturbation_fraction_of_observed_range": [
+        0.05,
+        0.1
+      ]
+    },
+    "site2": {
+      "patients": 175,
+      "proteins": 2923,
+      "bridge_samples": 20,
+      "long_rows": 569985,
+      "missing_fraction_min": 0.005714285714285672,
+      "missing_fraction_max": 0.4514285714285714,
+      "proteins_missing_over_20pct": 350,
+      "below_lod_overall_observed": 0.005920728833970365,
+      "below_lod_max_per_protein_observed": 0.01775147928994083,
+      "outlier_ids": [
+        "S2-064",
+        "S2-107",
+        "S2-146",
+        "S2-172"
+      ],
+      "outlier_wells": [
+        "E4",
+        "D4",
+        "B4",
+        "C4"
+      ],
+      "perturbation_fraction_of_observed_range": [
+        0.05,
+        0.1
+      ]
+    }
+  }
+}

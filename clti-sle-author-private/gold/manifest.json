@@ -1,0 +1,7 @@
+{
+  "scenarios": {
+    "version_a": "version_a_site2_clinical_with_outcomes.csv",
+    "version_b": "version_b_site2_clinical_with_outcomes.csv"
+  },
+  "signal_scenario": "version_a"
+}

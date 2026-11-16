@@ -1,0 +1,326 @@
+StudyID,ClinicalGroup,Age,Sex,BMI,Diabetes,Smoking,Hypertension,CKD,CAD,ABI,PADSeverityScore,Education,AnnualIncomeUSD,Race,Ethnicity,BaselineDate,LastContactDate,ThreeYearCutoffDate,DeathDate,DeathCause,FollowupEndReason,MIDate,StrokeDate,MajorAmputationDate,MajorRevascularizationDate,MACEDate,MACETimeDays,MACEStatus,MALEDate,MALETimeDays,MALEStatus,MajorAmputationTimeDays,MajorAmputationStatus,DeathTimeDays,DeathStatus
+S1-001,CLTI,69.7,Female,32.4,1,Former,1,1,0,0.6,30.5,Some_college,55400.0,Black,Hispanic,2019-05-22,2022-12-11,2022-05-22,,,ObservedBeyondThreeYears,,,2020-08-14,,,1096.0,0.0,2020-08-14,450.0,1.0,450.0,1.0,1096.0,0.0
+S1-002,Stable PAD,77.0,Male,31.6,0,Former,1,0,0,0.58,64.3,Some_college,100900.0,Asian,Non_Hispanic,2018-12-11,,,,,,,,,,,,,,,,,,,
+S1-003,Stable PAD,82.0,Female,33.8,0,Current,1,0,1,1.02,40.1,High_school_or_less,34800.0,White,Non_Hispanic,2018-09-21,,,,,,,,,,,,,,,,,,,
+S1-004,CLTI,72.5,Male,33.5,1,Current,1,0,0,0.4,82.7,Some_college,29600.0,White,Non_Hispanic,2018-04-13,2023-01-04,2021-04-13,,,ObservedBeyondThreeYears,2018-08-20,,2020-09-23,2018-07-11,2018-08-20,129.0,1.0,2018-07-11,89.0,1.0,894.0,1.0,1096.0,0.0
+S1-005,CLTI,73.8,Female,37.9,0,Former,1,0,0,0.95,64.4,High_school_or_less,34300.0,White,Non_Hispanic,2019-02-24,2019-07-15,2022-02-24,,,LostToFollowup,,,,,,141.0,0.0,,141.0,0.0,141.0,0.0,141.0,0.0
+S1-006,Stable PAD,70.4,Male,31.0,1,Former,1,0,0,0.71,41.3,High_school_or_less,57500.0,White,Non_Hispanic,2020-01-12,,,,,,,,,,,,,,,,,,,
+S1-007,CLTI,65.8,Male,37.1,1,Current,1,0,1,0.6,66.3,Some_college,74200.0,White,Non_Hispanic,2019-01-25,2022-05-02,2022-01-25,,,ObservedBeyondThreeYears,,2022-03-20,,,2022-03-20,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-008,Stable PAD,63.1,Female,29.2,0,Never,1,0,1,0.69,34.3,High_school_or_less,34600.0,White,Non_Hispanic,2018-01-24,,,,,,,,,,,,,,,,,,,
+S1-009,Stable PAD,66.9,Female,28.5,0,Never,1,0,0,0.22,76.2,College_or_more,108400.0,White,Non_Hispanic,2018-05-08,,,,,,,,,,,,,,,,,,,
+S1-010,Stable PAD,57.5,Male,25.8,1,Never,0,0,1,0.77,70.0,Some_college,19100.0,White,Non_Hispanic,2018-11-28,,,,,,,,,,,,,,,,,,,
+S1-011,CLTI,83.1,Female,34.3,1,Never,1,0,1,0.78,34.0,High_school_or_less,37300.0,White,Non_Hispanic,2018-03-05,2021-07-12,2021-03-05,,,ObservedBeyondThreeYears,,2019-04-08,,,2019-04-08,399.0,1.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-012,CLTI,66.1,Male,30.3,0,Former,1,0,0,0.69,54.2,College_or_more,60200.0,Black,Non_Hispanic,2018-11-13,2022-04-04,2021-11-13,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-013,CLTI,64.2,Male,29.9,1,Former,1,0,0,0.75,29.1,High_school_or_less,69600.0,Black,Non_Hispanic,2020-05-13,2024-02-09,2023-05-13,,,ObservedBeyondThreeYears,,,,,,1095.0,0.0,,1095.0,0.0,1095.0,0.0,1095.0,0.0
+S1-014,CLTI,64.7,Male,27.7,1,Current,1,0,0,0.64,48.1,High_school_or_less,114900.0,Other,Non_Hispanic,2020-08-14,2024-05-29,2023-08-14,2024-05-29,Noncardiovascular,Death,,,,2023-06-11,,1095.0,0.0,2023-06-11,1031.0,1.0,1095.0,0.0,1095.0,0.0
+S1-015,Stable PAD,56.9,Female,31.2,1,Former,0,0,0,0.98,68.6,High_school_or_less,134000.0,White,Non_Hispanic,2019-08-06,,,,,,,,,,,,,,,,,,,
+S1-016,Stable PAD,71.2,Male,30.9,0,Former,1,1,0,0.43,33.4,High_school_or_less,45300.0,White,Non_Hispanic,2020-04-27,,,,,,,,,,,,,,,,,,,
+S1-017,Stable PAD,64.5,Female,24.2,0,Current,1,0,0,0.83,41.8,College_or_more,38200.0,White,Non_Hispanic,2019-09-08,,,,,,,,,,,,,,,,,,,
+S1-018,CLTI,61.0,Male,19.7,0,Never,1,0,0,0.84,54.8,College_or_more,107600.0,White,Non_Hispanic,2019-05-13,2023-11-13,2022-05-13,,,ObservedBeyondThreeYears,,,2019-07-14,,,1096.0,0.0,2019-07-14,62.0,1.0,62.0,1.0,1096.0,0.0
+S1-019,Stable PAD,64.1,Female,24.8,0,Former,1,1,0,0.71,26.7,High_school_or_less,81200.0,Black,Non_Hispanic,2018-03-17,,,,,,,,,,,,,,,,,,,
+S1-020,Stable PAD,67.4,Female,28.4,0,Current,0,0,0,0.75,20.7,College_or_more,33200.0,Black,Non_Hispanic,2018-07-18,,,,,,,,,,,,,,,,,,,
+S1-021,Stable PAD,65.7,Female,29.7,0,Former,1,0,0,0.69,54.8,College_or_more,31100.0,White,Non_Hispanic,2018-03-18,,,,,,,,,,,,,,,,,,,
+S1-022,CLTI,59.1,Female,27.6,0,Former,1,0,0,0.65,58.6,High_school_or_less,40900.0,White,Non_Hispanic,2020-06-27,2025-02-28,2023-06-27,,,ObservedBeyondThreeYears,,,,,,1095.0,0.0,,1095.0,0.0,1095.0,0.0,1095.0,0.0
+S1-023,Stable PAD,71.7,Female,29.2,1,Former,0,0,1,0.41,41.1,Some_college,45500.0,Black,Hispanic,2018-08-27,,,,,,,,,,,,,,,,,,,
+S1-024,CLTI,67.5,Male,18.0,0,Never,1,1,0,0.42,36.6,Some_college,28700.0,Black,Non_Hispanic,2018-07-08,2023-02-07,2021-07-08,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-025,CLTI,75.2,Female,37.2,0,Former,0,0,0,0.45,41.7,Some_college,94500.0,White,Non_Hispanic,2019-10-27,2023-08-05,2022-10-27,,,ObservedBeyondThreeYears,,,2022-06-20,,,1096.0,0.0,2022-06-20,967.0,1.0,967.0,1.0,1096.0,0.0
+S1-026,CLTI,61.3,Female,31.8,1,Former,1,0,0,0.69,42.9,Some_college,43700.0,Black,Non_Hispanic,2020-12-09,2024-11-24,2023-12-09,2024-11-24,Cardiovascular,Death,,,,,2024-11-24,1095.0,0.0,,1095.0,0.0,1095.0,0.0,1095.0,0.0
+S1-027,CLTI,55.0,Male,34.3,0,Current,1,1,1,0.53,29.1,College_or_more,103100.0,Asian,Hispanic,2018-10-01,2023-06-20,2021-10-01,2023-06-20,Cardiovascular,Death,2019-04-17,2019-12-06,2020-12-15,2021-10-19,2019-04-17,198.0,1.0,2020-12-15,806.0,1.0,806.0,1.0,1096.0,0.0
+S1-028,Stable PAD,73.5,Male,29.4,1,Former,1,0,0,0.71,44.5,High_school_or_less,43200.0,Black,Hispanic,2020-09-12,,,,,,,,,,,,,,,,,,,
+S1-029,CLTI,64.1,Female,29.9,1,Former,1,0,1,0.77,43.6,College_or_more,79100.0,Asian,Non_Hispanic,2019-06-20,2020-03-17,2022-06-20,,,LostToFollowup,,2019-09-14,,,2019-09-14,86.0,1.0,,271.0,0.0,271.0,0.0,271.0,0.0
+S1-030,CLTI,63.2,Male,25.6,0,Former,0,0,0,0.3,75.4,High_school_or_less,21900.0,Asian,Hispanic,2019-12-02,2024-09-05,2022-12-02,,,ObservedBeyondThreeYears,,,,2024-09-02,,1096.0,0.0,2024-09-02,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-031,Stable PAD,63.1,Female,28.8,1,Never,1,0,0,0.88,45.3,College_or_more,34000.0,Asian,Non_Hispanic,2020-11-02,,,,,,,,,,,,,,,,,,,
+S1-032,CLTI,65.3,Female,27.1,0,Former,1,0,1,0.93,30.5,High_school_or_less,59700.0,White,Non_Hispanic,2019-02-14,2020-10-11,2022-02-14,2020-10-11,Noncardiovascular,Death,2020-05-08,,,,2020-05-08,449.0,1.0,,605.0,2.0,605.0,2.0,605.0,1.0
+S1-033,Stable PAD,70.3,Male,28.5,0,Never,0,1,0,0.91,47.5,Some_college,43000.0,White,Non_Hispanic,2020-06-17,,,,,,,,,,,,,,,,,,,
+S1-034,CLTI,79.1,Female,27.5,0,Former,1,1,1,0.69,75.6,High_school_or_less,41200.0,White,Hispanic,2020-04-07,2022-12-17,2023-04-07,2022-12-17,Noncardiovascular,Death,2021-12-25,,,,2021-12-25,627.0,1.0,,984.0,2.0,984.0,2.0,984.0,1.0
+S1-035,Stable PAD,55.2,Male,29.6,1,Current,1,0,0,0.66,43.6,Some_college,32100.0,White,Non_Hispanic,2019-06-06,,,,,,,,,,,,,,,,,,,
+S1-036,CLTI,77.7,Male,32.0,0,Former,1,0,0,0.31,30.2,College_or_more,84300.0,White,Non_Hispanic,2018-02-24,2022-03-25,2021-02-24,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-037,CLTI,72.3,Male,26.9,1,Current,1,0,1,0.8,76.8,Some_college,53500.0,Asian,Non_Hispanic,2019-06-15,2023-03-04,2022-06-15,,,ObservedBeyondThreeYears,2020-02-07,,,2021-07-02,2020-02-07,237.0,1.0,2021-07-02,748.0,1.0,1096.0,0.0,1096.0,0.0
+S1-038,Stable PAD,84.3,Male,34.9,1,Former,1,1,0,0.49,43.5,Some_college,57000.0,Black,Non_Hispanic,2018-11-06,,,,,,,,,,,,,,,,,,,
+S1-039,Stable PAD,62.4,Male,32.8,1,Current,0,0,0,0.46,44.6,College_or_more,104600.0,Asian,Non_Hispanic,2020-10-11,,,,,,,,,,,,,,,,,,,
+S1-040,Stable PAD,67.5,Male,33.6,0,Current,1,0,1,0.41,49.8,High_school_or_less,32900.0,Black,Non_Hispanic,2020-02-12,,,,,,,,,,,,,,,,,,,
+S1-041,Stable PAD,68.9,Female,28.9,1,Never,0,0,0,0.93,71.5,Some_college,51700.0,White,Non_Hispanic,2018-06-05,,,,,,,,,,,,,,,,,,,
+S1-042,Stable PAD,49.5,Male,29.7,1,Current,1,0,0,0.52,55.4,Some_college,30800.0,Black,Non_Hispanic,2018-04-18,,,,,,,,,,,,,,,,,,,
+S1-043,CLTI,67.5,Male,37.9,1,Former,1,0,1,0.95,20.0,High_school_or_less,77400.0,White,Hispanic,2018-04-09,2022-06-06,2021-04-09,,,ObservedBeyondThreeYears,,,2019-07-12,,,1096.0,0.0,2019-07-12,459.0,1.0,459.0,1.0,1096.0,0.0
+S1-044,Stable PAD,63.6,Male,28.3,0,Current,0,1,0,0.72,0.0,High_school_or_less,45800.0,Black,Non_Hispanic,2019-11-03,,,,,,,,,,,,,,,,,,,
+S1-045,Stable PAD,79.6,Female,30.6,1,Former,1,0,1,0.74,29.5,College_or_more,74700.0,White,Non_Hispanic,2019-07-25,,,,,,,,,,,,,,,,,,,
+S1-046,Stable PAD,56.6,Male,29.5,1,Never,1,1,1,0.62,39.3,High_school_or_less,77000.0,White,Non_Hispanic,2019-06-06,,,,,,,,,,,,,,,,,,,
+S1-047,Stable PAD,61.0,Male,25.1,1,Current,1,0,1,0.34,100.0,College_or_more,73700.0,White,Non_Hispanic,2018-02-17,,,,,,,,,,,,,,,,,,,
+S1-048,CLTI,79.1,Male,31.2,0,Never,1,0,0,0.65,28.4,Some_college,38200.0,Other,Hispanic,2018-11-06,2019-03-27,2021-11-06,2019-03-27,Noncardiovascular,Death,,,2018-12-17,,,141.0,2.0,2018-12-17,41.0,1.0,41.0,1.0,141.0,1.0
+S1-049,Stable PAD,68.1,Female,22.5,0,Former,1,1,0,0.7,57.7,High_school_or_less,64200.0,White,Hispanic,2019-05-28,,,,,,,,,,,,,,,,,,,
+S1-050,CLTI,59.3,Male,30.7,0,Former,1,0,0,0.32,71.9,Some_college,42400.0,Other,Non_Hispanic,2019-06-30,2022-11-20,2022-06-30,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-051,Stable PAD,76.5,Female,23.9,0,Former,1,0,0,0.72,56.6,College_or_more,34300.0,White,Hispanic,2019-12-05,,,,,,,,,,,,,,,,,,,
+S1-052,CLTI,74.7,Female,24.1,0,Current,1,0,1,0.47,67.6,College_or_more,120200.0,White,Non_Hispanic,2020-06-21,2023-05-23,2023-06-21,2023-05-23,Noncardiovascular,Death,,,,,,1066.0,2.0,,1066.0,2.0,1066.0,2.0,1066.0,1.0
+S1-053,CLTI,53.4,Male,24.2,1,Never,1,0,0,0.82,75.5,Some_college,43200.0,Asian,Non_Hispanic,2018-12-11,2023-06-12,2021-12-11,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-054,CLTI,62.2,Female,30.3,0,Former,1,0,0,0.27,80.9,High_school_or_less,39900.0,Asian,Non_Hispanic,2019-12-22,2023-09-15,2022-12-22,,,ObservedBeyondThreeYears,,,,2022-02-24,,1096.0,0.0,2022-02-24,795.0,1.0,1096.0,0.0,1096.0,0.0
+S1-055,Stable PAD,70.7,Female,26.4,1,Current,0,0,1,0.61,82.5,Some_college,25200.0,Asian,Non_Hispanic,2020-02-14,,,,,,,,,,,,,,,,,,,
+S1-056,Stable PAD,66.6,Female,24.6,0,Current,0,0,0,0.75,30.6,High_school_or_less,137000.0,Black,Non_Hispanic,2020-03-17,,,,,,,,,,,,,,,,,,,
+S1-057,CLTI,62.5,Female,26.1,1,Former,1,0,0,0.63,0.0,Some_college,67600.0,White,Non_Hispanic,2019-04-11,2023-08-17,2022-04-11,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-058,CLTI,69.3,Female,30.0,1,Former,1,0,0,0.56,52.5,Some_college,15200.0,Asian,Non_Hispanic,2018-10-23,2022-10-04,2021-10-23,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-059,Stable PAD,87.4,Male,32.0,0,Former,1,0,0,0.6,46.9,College_or_more,65900.0,White,Non_Hispanic,2019-08-26,,,,,,,,,,,,,,,,,,,
+S1-060,CLTI,71.2,Male,28.9,0,Never,1,0,1,0.73,25.8,Some_college,72000.0,White,Non_Hispanic,2018-11-30,2023-05-03,2021-11-30,,,ObservedBeyondThreeYears,2019-02-02,2022-10-14,2020-11-26,2022-04-03,2019-02-02,64.0,1.0,2020-11-26,727.0,1.0,727.0,1.0,1096.0,0.0
+S1-061,Stable PAD,74.3,Male,31.0,0,Current,0,0,0,0.43,63.4,College_or_more,41500.0,White,Non_Hispanic,2020-04-19,,,,,,,,,,,,,,,,,,,
+S1-062,CLTI,54.9,Male,28.5,1,Current,1,0,1,0.51,60.4,High_school_or_less,106200.0,White,Hispanic,2018-04-06,2022-03-05,2021-04-06,,,ObservedBeyondThreeYears,,,2020-05-09,2019-09-15,,1096.0,0.0,2019-09-15,527.0,1.0,764.0,1.0,1096.0,0.0
+S1-063,CLTI,55.3,Male,24.6,1,Current,0,1,1,0.79,46.8,College_or_more,100600.0,Asian,Non_Hispanic,2019-01-15,2023-01-08,2022-01-15,,,ObservedBeyondThreeYears,,,2020-01-20,,,1096.0,0.0,2020-01-20,370.0,1.0,370.0,1.0,1096.0,0.0
+S1-064,CLTI,63.5,Female,29.7,0,Never,1,1,1,0.77,45.1,Some_college,45200.0,White,Non_Hispanic,2019-09-11,2023-01-25,2022-09-11,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-065,Stable PAD,69.5,Female,28.2,0,Current,1,0,0,0.45,29.7,Some_college,40300.0,White,Non_Hispanic,2018-07-14,,,,,,,,,,,,,,,,,,,
+S1-066,Stable PAD,67.6,Male,25.5,0,Never,1,0,0,0.67,41.3,Some_college,48800.0,White,Non_Hispanic,2018-05-13,,,,,,,,,,,,,,,,,,,
+S1-067,CLTI,76.5,Male,32.5,0,Current,1,0,0,0.64,27.7,Some_college,15000.0,White,Non_Hispanic,2020-07-22,2023-02-02,2023-07-22,2023-02-02,Noncardiovascular,Death,,,,2022-07-18,,925.0,2.0,2022-07-18,726.0,1.0,925.0,2.0,925.0,1.0
+S1-068,Stable PAD,65.6,Male,29.9,0,Never,1,0,1,0.56,42.2,High_school_or_less,42500.0,Asian,Non_Hispanic,2020-11-20,,,,,,,,,,,,,,,,,,,
+S1-069,Stable PAD,64.9,Female,33.0,1,Former,1,0,1,0.66,24.1,College_or_more,106900.0,White,Non_Hispanic,2019-04-19,,,,,,,,,,,,,,,,,,,
+S1-070,CLTI,70.9,Male,27.3,1,Former,1,0,1,0.49,87.6,High_school_or_less,68300.0,White,Non_Hispanic,2019-06-21,2020-05-06,2022-06-21,2020-05-06,Noncardiovascular,Death,,,,2019-12-09,,320.0,2.0,2019-12-09,171.0,1.0,320.0,2.0,320.0,1.0
+S1-071,CLTI,67.8,Female,35.8,1,Never,0,0,0,0.65,45.0,High_school_or_less,49000.0,Black,Hispanic,2020-12-18,2022-02-16,2023-12-18,2022-02-16,Cardiovascular,Death,,,,,2022-02-16,425.0,1.0,,425.0,2.0,425.0,2.0,425.0,1.0
+S1-072,CLTI,68.1,Male,19.7,0,Former,1,0,0,0.59,64.5,Some_college,32500.0,Black,Non_Hispanic,2020-09-20,2025-07-24,2023-09-20,,,ObservedBeyondThreeYears,,,,2025-01-03,,1095.0,0.0,2025-01-03,1095.0,0.0,1095.0,0.0,1095.0,0.0
+S1-073,CLTI,60.9,Male,31.5,1,Former,0,0,0,0.84,45.1,High_school_or_less,21300.0,Black,Non_Hispanic,2020-07-02,2023-09-28,2023-07-02,2023-09-28,Noncardiovascular,Death,,,,,,1095.0,0.0,,1095.0,0.0,1095.0,0.0,1095.0,0.0
+S1-074,Stable PAD,55.0,Male,36.8,0,Former,0,1,1,0.86,86.3,High_school_or_less,72100.0,Other,Non_Hispanic,2019-01-21,,,,,,,,,,,,,,,,,,,
+S1-075,CLTI,67.8,Male,34.3,1,Former,1,0,0,0.59,63.7,College_or_more,57300.0,White,Non_Hispanic,2020-10-29,2024-11-29,2023-10-29,,,ObservedBeyondThreeYears,2023-04-24,,,,2023-04-24,907.0,1.0,,1095.0,0.0,1095.0,0.0,1095.0,0.0
+S1-076,Stable PAD,67.3,Male,21.2,0,Never,1,0,0,0.39,33.4,High_school_or_less,59100.0,Other,Non_Hispanic,2019-07-27,,,,,,,,,,,,,,,,,,,
+S1-077,CLTI,67.4,Male,31.3,1,Never,1,1,1,0.67,37.1,Some_college,70600.0,White,Non_Hispanic,2020-05-26,2020-11-05,2023-05-26,,,LostToFollowup,,,,,,163.0,0.0,,163.0,0.0,163.0,0.0,163.0,0.0
+S1-078,Stable PAD,50.7,Male,30.2,0,Current,1,0,0,0.83,49.2,High_school_or_less,51900.0,White,Non_Hispanic,2018-07-07,,,,,,,,,,,,,,,,,,,
+S1-079,CLTI,75.4,Male,30.4,0,Former,0,0,1,0.67,41.6,High_school_or_less,106600.0,Black,Non_Hispanic,2020-09-29,2025-07-07,2023-09-29,,,ObservedBeyondThreeYears,,,2023-03-21,,,1095.0,0.0,2023-03-21,903.0,1.0,903.0,1.0,1095.0,0.0
+S1-080,CLTI,85.1,Female,32.5,0,Never,1,0,0,0.73,53.9,High_school_or_less,94200.0,Other,Non_Hispanic,2019-02-22,2021-05-10,2022-02-22,,,LostToFollowup,,,,,,808.0,0.0,,808.0,0.0,808.0,0.0,808.0,0.0
+S1-081,Stable PAD,70.7,Male,23.4,1,Current,1,1,0,0.69,69.9,High_school_or_less,79400.0,White,Non_Hispanic,2019-09-28,,,,,,,,,,,,,,,,,,,
+S1-082,Stable PAD,70.8,Male,29.6,0,Former,0,0,0,0.71,21.5,Some_college,40900.0,White,Hispanic,2018-11-27,,,,,,,,,,,,,,,,,,,
+S1-083,Stable PAD,64.4,Male,34.2,0,Former,1,0,0,0.9,59.1,Some_college,44800.0,White,Non_Hispanic,2020-04-04,,,,,,,,,,,,,,,,,,,
+S1-084,Stable PAD,59.1,Female,29.3,0,Former,0,0,1,0.83,59.5,College_or_more,61500.0,Black,Non_Hispanic,2018-11-15,,,,,,,,,,,,,,,,,,,
+S1-085,CLTI,61.5,Female,24.3,1,Never,1,1,1,0.73,56.6,Some_college,57600.0,White,Non_Hispanic,2019-06-22,2024-05-15,2022-06-22,,,ObservedBeyondThreeYears,,2021-07-17,,2019-11-14,2021-07-17,756.0,1.0,2019-11-14,145.0,1.0,1096.0,0.0,1096.0,0.0
+S1-086,CLTI,51.3,Male,25.2,1,Former,1,0,0,0.47,80.8,College_or_more,44000.0,White,Hispanic,2018-02-19,2019-09-05,2021-02-19,2019-09-05,Cardiovascular,Death,,,,,2019-09-05,563.0,1.0,,563.0,2.0,563.0,2.0,563.0,1.0
+S1-087,Stable PAD,57.2,Male,20.4,1,Current,1,0,1,0.68,80.2,High_school_or_less,101300.0,White,Non_Hispanic,2020-07-05,,,,,,,,,,,,,,,,,,,
+S1-088,CLTI,67.8,Male,28.4,1,Current,1,0,0,0.66,42.3,Some_college,100100.0,Black,Non_Hispanic,2019-08-19,2020-12-25,2022-08-19,,,LostToFollowup,,2020-02-20,,,2020-02-20,185.0,1.0,,494.0,0.0,494.0,0.0,494.0,0.0
+S1-089,CLTI,90.0,Male,30.3,1,Former,1,0,0,0.71,43.9,High_school_or_less,38700.0,White,Non_Hispanic,2020-01-17,2024-05-10,2023-01-17,,,ObservedBeyondThreeYears,,,2023-12-24,2023-06-29,,1096.0,0.0,2023-06-29,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-090,Stable PAD,56.4,Female,30.6,0,Current,0,0,0,0.5,30.5,Some_college,33000.0,White,Hispanic,2018-03-09,,,,,,,,,,,,,,,,,,,
+S1-091,CLTI,80.3,Male,28.1,0,Former,1,0,0,0.26,52.5,High_school_or_less,61500.0,Black,Non_Hispanic,2019-01-08,2019-07-28,2022-01-08,2019-07-28,Noncardiovascular,Death,,,,,,201.0,2.0,,201.0,2.0,201.0,2.0,201.0,1.0
+S1-092,CLTI,68.6,Female,23.7,1,Never,1,1,0,0.5,59.5,High_school_or_less,39900.0,Black,Non_Hispanic,2019-08-14,2022-11-24,2022-08-14,2022-11-24,Noncardiovascular,Death,,,2019-09-14,,,1096.0,0.0,2019-09-14,31.0,1.0,31.0,1.0,1096.0,0.0
+S1-093,CLTI,73.6,Male,28.7,1,Never,1,0,1,0.6,42.6,High_school_or_less,39800.0,White,Non_Hispanic,2019-05-28,2023-09-03,2022-05-28,,,ObservedBeyondThreeYears,,,,2021-08-04,,1096.0,0.0,2021-08-04,799.0,1.0,1096.0,0.0,1096.0,0.0
+S1-094,Stable PAD,60.7,Male,25.4,1,Former,1,1,0,0.68,35.9,Some_college,35700.0,Black,Non_Hispanic,2020-03-07,,,,,,,,,,,,,,,,,,,
+S1-095,CLTI,64.8,Male,31.0,0,Never,0,1,1,0.6,37.1,Some_college,80800.0,White,Non_Hispanic,2020-02-23,2024-03-25,2023-02-23,,,ObservedBeyondThreeYears,2021-01-29,,2022-05-30,,2021-01-29,341.0,1.0,2022-05-30,827.0,1.0,827.0,1.0,1096.0,0.0
+S1-096,CLTI,61.2,Female,30.5,1,Former,1,1,0,0.7,25.7,College_or_more,55500.0,White,Hispanic,2019-01-07,2020-01-10,2022-01-07,2020-01-10,Cardiovascular,Death,,,,,2020-01-10,368.0,1.0,,368.0,2.0,368.0,2.0,368.0,1.0
+S1-097,CLTI,50.5,Female,22.7,0,Former,1,0,1,0.84,61.1,High_school_or_less,35400.0,Black,Non_Hispanic,2019-09-27,2023-09-15,2022-09-27,,,ObservedBeyondThreeYears,2021-04-13,,,,2021-04-13,564.0,1.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-098,CLTI,70.2,Male,27.9,0,Former,1,1,0,0.64,35.0,High_school_or_less,153300.0,White,Non_Hispanic,2020-02-27,2024-04-13,2023-02-27,,,ObservedBeyondThreeYears,,,2022-09-08,,,1096.0,0.0,2022-09-08,924.0,1.0,924.0,1.0,1096.0,0.0
+S1-099,CLTI,75.2,Female,29.6,1,Former,1,0,1,0.59,53.8,High_school_or_less,20700.0,Other,Non_Hispanic,2018-06-14,2023-01-07,2021-06-14,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-100,CLTI,66.6,Male,28.0,0,Former,1,0,0,0.57,48.7,High_school_or_less,48300.0,White,Non_Hispanic,2018-04-09,2020-04-06,2021-04-09,2020-04-06,Noncardiovascular,Death,2019-09-04,,,,2019-09-04,513.0,1.0,,728.0,2.0,728.0,2.0,728.0,1.0
+S1-101,CLTI,66.3,Female,34.1,0,Former,1,1,0,1.04,17.5,High_school_or_less,28500.0,Black,Non_Hispanic,2019-04-23,2024-03-22,2022-04-23,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-102,CLTI,57.5,Male,23.0,0,Never,0,1,0,0.45,64.5,High_school_or_less,81000.0,Black,Non_Hispanic,2020-03-13,2024-02-24,2023-03-13,,,ObservedBeyondThreeYears,,,,,,1095.0,0.0,,1095.0,0.0,1095.0,0.0,1095.0,0.0
+S1-103,CLTI,73.0,Female,21.3,1,Former,1,0,1,0.51,48.6,High_school_or_less,38000.0,White,Non_Hispanic,2018-07-14,2021-11-19,2021-07-14,2021-11-19,Cardiovascular,Death,2018-09-17,,,,2018-09-17,65.0,1.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-104,Stable PAD,63.8,Male,19.3,1,Never,1,0,1,0.5,40.7,Some_college,45600.0,Other,Hispanic,2020-02-04,,,,,,,,,,,,,,,,,,,
+S1-105,CLTI,77.6,Male,18.0,0,Former,1,0,0,0.68,66.8,High_school_or_less,68200.0,Black,Hispanic,2018-02-08,2019-11-22,2021-02-08,,,LostToFollowup,,,,,,652.0,0.0,,652.0,0.0,652.0,0.0,652.0,0.0
+S1-106,Stable PAD,66.3,Female,24.0,1,Former,1,0,0,0.57,30.2,Some_college,50100.0,White,Hispanic,2018-06-15,,,,,,,,,,,,,,,,,,,
+S1-107,CLTI,66.5,Male,27.5,1,Former,1,0,0,0.45,51.8,High_school_or_less,100300.0,Black,Non_Hispanic,2019-02-24,2019-03-13,2022-02-24,2019-03-13,Cardiovascular,Death,,,,,2019-03-13,17.0,1.0,,17.0,2.0,17.0,2.0,17.0,1.0
+S1-108,Stable PAD,66.8,Male,22.0,0,Former,1,1,1,0.65,30.5,College_or_more,71800.0,Other,Hispanic,2018-09-21,,,,,,,,,,,,,,,,,,,
+S1-109,CLTI,80.5,Female,22.9,0,Current,1,0,0,0.76,49.7,College_or_more,71000.0,Other,Non_Hispanic,2020-05-04,2024-10-25,2023-05-04,,,ObservedBeyondThreeYears,,,,,,1095.0,0.0,,1095.0,0.0,1095.0,0.0,1095.0,0.0
+S1-110,Stable PAD,70.3,Male,22.3,1,Former,0,0,0,0.77,23.5,High_school_or_less,41400.0,Black,Non_Hispanic,2019-02-10,,,,,,,,,,,,,,,,,,,
+S1-111,Stable PAD,60.5,Male,30.0,0,Current,1,0,0,0.68,80.1,High_school_or_less,54300.0,White,Non_Hispanic,2018-02-03,,,,,,,,,,,,,,,,,,,
+S1-112,CLTI,56.2,Male,27.7,0,Never,0,0,1,0.93,44.3,College_or_more,42000.0,Other,Non_Hispanic,2018-08-10,2023-04-25,2021-08-10,,,ObservedBeyondThreeYears,,,2021-03-02,,,1096.0,0.0,2021-03-02,935.0,1.0,935.0,1.0,1096.0,0.0
+S1-113,CLTI,71.8,Female,33.7,0,Never,1,0,1,0.74,62.6,College_or_more,23700.0,Black,Non_Hispanic,2019-09-21,2024-07-11,2022-09-21,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-114,CLTI,72.1,Male,27.5,0,Former,1,1,0,0.8,55.7,College_or_more,63500.0,Black,Non_Hispanic,2018-09-06,2019-12-19,2021-09-06,,,LostToFollowup,2019-06-26,,2019-03-03,2019-08-17,2019-06-26,293.0,1.0,2019-03-03,178.0,1.0,178.0,1.0,469.0,0.0
+S1-115,Stable PAD,64.6,Female,21.7,0,Current,1,0,0,1.04,7.9,College_or_more,31800.0,Black,Non_Hispanic,2020-07-17,,,,,,,,,,,,,,,,,,,
+S1-116,Stable PAD,72.2,Female,32.2,0,Current,1,1,1,0.73,32.5,College_or_more,19300.0,Asian,Non_Hispanic,2020-07-29,,,,,,,,,,,,,,,,,,,
+S1-117,CLTI,62.8,Male,29.1,0,Former,1,0,1,0.67,67.7,College_or_more,244900.0,White,Hispanic,2020-10-24,2025-05-29,2023-10-24,,,ObservedBeyondThreeYears,,,,,,1095.0,0.0,,1095.0,0.0,1095.0,0.0,1095.0,0.0
+S1-118,Stable PAD,57.8,Female,29.5,0,Former,0,0,1,0.75,78.3,High_school_or_less,23700.0,Asian,Non_Hispanic,2020-06-24,,,,,,,,,,,,,,,,,,,
+S1-119,CLTI,72.3,Male,31.2,1,Former,1,0,0,0.62,51.2,College_or_more,49700.0,White,Non_Hispanic,2018-02-01,2021-03-31,2021-02-01,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-120,Stable PAD,61.8,Female,31.9,0,Never,1,0,1,0.51,67.2,Some_college,27100.0,White,Non_Hispanic,2020-01-06,,,,,,,,,,,,,,,,,,,
+S1-121,CLTI,64.1,Male,23.2,0,Never,0,0,0,0.74,20.4,Some_college,18500.0,Black,Non_Hispanic,2020-02-24,2024-11-29,2023-02-24,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-122,CLTI,68.6,Female,27.7,1,Never,1,0,1,1.15,50.7,High_school_or_less,33200.0,Black,Non_Hispanic,2019-10-28,2023-09-07,2022-10-28,,,ObservedBeyondThreeYears,,,,2020-06-17,,1096.0,0.0,2020-06-17,233.0,1.0,1096.0,0.0,1096.0,0.0
+S1-123,Stable PAD,62.0,Female,27.7,0,Former,1,0,1,0.97,22.0,High_school_or_less,28000.0,Black,Hispanic,2019-10-03,,,,,,,,,,,,,,,,,,,
+S1-124,CLTI,81.9,Male,26.4,0,Never,1,0,0,0.4,45.1,College_or_more,59500.0,White,Non_Hispanic,2020-06-08,2021-10-16,2023-06-08,2021-10-16,Cardiovascular,Death,,,,,2021-10-16,495.0,1.0,,495.0,2.0,495.0,2.0,495.0,1.0
+S1-125,CLTI,72.1,Female,28.2,1,Former,0,0,0,0.73,56.5,College_or_more,79700.0,Black,Non_Hispanic,2018-01-11,2021-08-05,2021-01-11,,,ObservedBeyondThreeYears,,,2019-06-27,2018-02-26,,1096.0,0.0,2018-02-26,46.0,1.0,532.0,1.0,1096.0,0.0
+S1-126,CLTI,56.1,Male,28.8,0,Never,1,0,0,0.43,58.6,High_school_or_less,164300.0,Black,Hispanic,2019-11-15,2023-01-11,2022-11-15,,,ObservedBeyondThreeYears,,,2020-12-15,,,1096.0,0.0,2020-12-15,396.0,1.0,396.0,1.0,1096.0,0.0
+S1-127,Stable PAD,63.4,Female,25.6,0,Never,1,0,0,0.56,68.1,High_school_or_less,45100.0,Other,Hispanic,2019-04-26,,,,,,,,,,,,,,,,,,,
+S1-128,CLTI,78.9,Male,22.9,0,Former,1,0,0,1.17,3.6,Some_college,102400.0,White,Non_Hispanic,2020-12-17,2025-10-28,2023-12-17,,,ObservedBeyondThreeYears,2021-08-28,,,,2021-08-28,254.0,1.0,,1095.0,0.0,1095.0,0.0,1095.0,0.0
+S1-129,Stable PAD,68.5,Female,25.3,1,Never,1,0,0,0.69,41.6,High_school_or_less,85500.0,White,Non_Hispanic,2019-07-06,,,,,,,,,,,,,,,,,,,
+S1-130,CLTI,50.8,Female,29.0,0,Former,1,1,0,0.69,77.6,College_or_more,57200.0,Other,Non_Hispanic,2020-06-08,2024-03-22,2023-06-08,,,ObservedBeyondThreeYears,,,2023-03-02,,,1095.0,0.0,2023-03-02,997.0,1.0,997.0,1.0,1095.0,0.0
+S1-131,CLTI,78.5,Male,31.9,1,Former,1,0,1,0.96,60.8,College_or_more,36900.0,Other,Non_Hispanic,2020-06-13,2024-03-13,2023-06-13,,,ObservedBeyondThreeYears,,,2022-05-09,,,1095.0,0.0,2022-05-09,695.0,1.0,695.0,1.0,1095.0,0.0
+S1-132,Stable PAD,62.0,Male,33.2,1,Former,0,0,0,0.95,59.8,High_school_or_less,37100.0,White,Non_Hispanic,2018-12-30,,,,,,,,,,,,,,,,,,,
+S1-133,Stable PAD,66.1,Male,23.3,1,Former,1,0,1,0.86,42.7,High_school_or_less,176400.0,White,Hispanic,2019-06-22,,,,,,,,,,,,,,,,,,,
+S1-134,CLTI,74.8,Female,31.6,1,Former,1,0,0,0.51,50.5,College_or_more,78600.0,White,Non_Hispanic,2019-01-24,2023-02-17,2022-01-24,,,ObservedBeyondThreeYears,,2019-09-10,2020-04-29,2020-01-25,2019-09-10,229.0,1.0,2020-01-25,366.0,1.0,461.0,1.0,1096.0,0.0
+S1-135,Stable PAD,47.3,Male,29.2,1,Current,1,0,1,0.7,67.1,College_or_more,158400.0,White,Non_Hispanic,2020-05-22,,,,,,,,,,,,,,,,,,,
+S1-136,CLTI,73.7,Male,22.4,0,Never,0,1,1,0.63,36.8,High_school_or_less,92600.0,Black,Hispanic,2019-05-10,2023-09-20,2022-05-10,,,ObservedBeyondThreeYears,2021-11-24,2019-10-02,2019-07-08,,2019-10-02,145.0,1.0,2019-07-08,59.0,1.0,59.0,1.0,1096.0,0.0
+S1-137,Stable PAD,79.4,Male,29.1,1,Former,1,1,0,0.52,52.0,High_school_or_less,92000.0,White,Hispanic,2020-10-19,,,,,,,,,,,,,,,,,,,
+S1-138,CLTI,73.1,Male,32.2,1,Former,1,0,0,0.53,58.1,College_or_more,82100.0,White,Non_Hispanic,2019-04-21,2024-01-11,2022-04-21,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-139,Stable PAD,63.7,Male,23.7,0,Former,1,0,1,0.63,3.0,High_school_or_less,34800.0,White,Non_Hispanic,2018-02-09,,,,,,,,,,,,,,,,,,,
+S1-140,CLTI,59.6,Female,28.6,1,Never,0,1,1,0.93,66.2,College_or_more,84500.0,White,Non_Hispanic,2019-02-09,2019-09-02,2022-02-09,,,LostToFollowup,,,,,,205.0,0.0,,205.0,0.0,205.0,0.0,205.0,0.0
+S1-141,Stable PAD,61.6,Male,33.2,0,Current,1,0,0,0.68,51.4,College_or_more,36300.0,White,Non_Hispanic,2019-02-28,,,,,,,,,,,,,,,,,,,
+S1-142,CLTI,79.6,Male,26.5,1,Former,1,0,0,0.5,27.5,High_school_or_less,54300.0,White,Hispanic,2018-02-19,2022-12-27,2021-02-19,,,ObservedBeyondThreeYears,2019-07-27,2018-12-24,2019-11-04,,2018-12-24,308.0,1.0,2019-11-04,623.0,1.0,623.0,1.0,1096.0,0.0
+S1-143,CLTI,63.3,Female,27.4,0,Current,0,0,0,0.61,62.2,High_school_or_less,27000.0,White,Non_Hispanic,2020-11-20,2024-12-08,2023-11-20,,,ObservedBeyondThreeYears,,2022-07-26,2021-11-19,,2022-07-26,613.0,1.0,2021-11-19,364.0,1.0,364.0,1.0,1095.0,0.0
+S1-144,CLTI,73.7,Male,32.4,0,Former,1,0,0,0.42,35.7,College_or_more,34300.0,Black,Non_Hispanic,2018-04-20,2022-01-08,2021-04-20,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-145,Stable PAD,57.8,Male,26.9,0,Current,1,1,1,0.35,80.4,Some_college,27300.0,Black,Non_Hispanic,2020-10-14,,,,,,,,,,,,,,,,,,,
+S1-146,Stable PAD,49.6,Male,22.1,0,Former,0,0,0,0.78,39.9,Some_college,120600.0,White,Non_Hispanic,2018-07-19,,,,,,,,,,,,,,,,,,,
+S1-147,Stable PAD,65.2,Male,30.4,1,Former,1,1,0,0.6,80.4,Some_college,64600.0,Black,Non_Hispanic,2018-12-05,,,,,,,,,,,,,,,,,,,
+S1-148,Stable PAD,66.9,Male,27.5,0,Former,0,0,0,0.56,17.5,High_school_or_less,89600.0,White,Non_Hispanic,2019-02-14,,,,,,,,,,,,,,,,,,,
+S1-149,CLTI,82.4,Female,24.3,0,Current,0,1,1,0.34,45.7,High_school_or_less,46700.0,Black,Hispanic,2018-03-06,2022-04-09,2021-03-06,2022-04-09,Noncardiovascular,Death,2020-09-09,,2019-11-19,2018-10-04,2020-09-09,918.0,1.0,2018-10-04,212.0,1.0,623.0,1.0,1096.0,0.0
+S1-150,Stable PAD,77.1,Male,28.1,1,Current,0,1,0,0.32,82.0,Some_college,28400.0,Black,Non_Hispanic,2018-12-02,,,,,,,,,,,,,,,,,,,
+S1-151,Stable PAD,61.3,Female,26.3,0,Former,1,0,0,0.67,40.7,Some_college,27800.0,White,Hispanic,2018-02-15,,,,,,,,,,,,,,,,,,,
+S1-152,CLTI,73.8,Female,21.2,0,Former,0,0,1,0.52,58.4,Some_college,28100.0,Black,Non_Hispanic,2020-09-16,2021-08-25,2023-09-16,2021-08-25,Cardiovascular,Death,,,2020-11-11,2020-12-31,2021-08-25,343.0,1.0,2020-11-11,56.0,1.0,56.0,1.0,343.0,1.0
+S1-153,CLTI,81.4,Male,30.8,0,Never,1,1,1,0.45,52.1,High_school_or_less,40300.0,White,Non_Hispanic,2019-09-26,2023-11-09,2022-09-26,,,ObservedBeyondThreeYears,2021-12-13,2020-03-06,,2020-05-15,2020-03-06,162.0,1.0,2020-05-15,232.0,1.0,1096.0,0.0,1096.0,0.0
+S1-154,CLTI,79.1,Male,28.2,1,Never,1,0,1,0.65,60.3,High_school_or_less,142400.0,White,Hispanic,2019-12-30,2021-07-12,2022-12-30,,,LostToFollowup,2021-03-12,2021-01-23,2020-08-09,,2021-01-23,390.0,1.0,2020-08-09,223.0,1.0,223.0,1.0,560.0,0.0
+S1-155,CLTI,77.8,Male,33.9,1,Current,1,1,1,0.72,28.6,Some_college,93500.0,Asian,Non_Hispanic,2020-10-19,2021-09-06,2023-10-19,2021-09-06,Cardiovascular,Death,,,,,2021-09-06,322.0,1.0,,322.0,2.0,322.0,2.0,322.0,1.0
+S1-156,Stable PAD,76.6,Male,25.5,1,Former,1,0,0,0.76,55.8,Some_college,92800.0,White,Non_Hispanic,2020-07-30,,,,,,,,,,,,,,,,,,,
+S1-157,CLTI,62.6,Female,31.7,0,Current,1,0,0,0.83,59.4,College_or_more,31200.0,White,Non_Hispanic,2020-05-08,2023-09-22,2023-05-08,,,ObservedBeyondThreeYears,,2021-03-14,,,2021-03-14,310.0,1.0,,1095.0,0.0,1095.0,0.0,1095.0,0.0
+S1-158,Stable PAD,70.3,Male,23.3,1,Never,1,0,1,0.59,43.1,High_school_or_less,43900.0,White,Non_Hispanic,2019-03-12,,,,,,,,,,,,,,,,,,,
+S1-159,CLTI,74.2,Female,32.1,1,Former,0,0,0,0.65,43.7,Some_college,31300.0,Black,Non_Hispanic,2019-07-27,2023-08-17,2022-07-27,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-160,Stable PAD,67.8,Male,28.6,0,Current,1,0,1,0.73,88.0,Some_college,42700.0,White,Hispanic,2019-07-19,,,,,,,,,,,,,,,,,,,
+S1-161,Stable PAD,68.2,Male,22.9,0,Current,1,0,0,0.59,79.2,College_or_more,69300.0,White,Non_Hispanic,2018-08-19,,,,,,,,,,,,,,,,,,,
+S1-162,Stable PAD,57.0,Male,30.5,0,Current,0,0,1,0.7,40.2,High_school_or_less,34300.0,Black,Non_Hispanic,2019-06-19,,,,,,,,,,,,,,,,,,,
+S1-163,Stable PAD,69.2,Female,27.5,1,Current,0,0,0,0.72,68.3,College_or_more,45100.0,Black,Hispanic,2019-02-09,,,,,,,,,,,,,,,,,,,
+S1-164,Stable PAD,74.4,Male,35.7,1,Current,1,0,1,0.45,71.8,High_school_or_less,38600.0,White,Non_Hispanic,2019-03-21,,,,,,,,,,,,,,,,,,,
+S1-165,CLTI,76.7,Male,34.8,1,Current,1,0,1,0.18,54.7,Some_college,77800.0,White,Non_Hispanic,2018-09-04,2022-05-29,2021-09-04,,,ObservedBeyondThreeYears,2018-10-10,,,2019-01-17,2018-10-10,36.0,1.0,2019-01-17,135.0,1.0,1096.0,0.0,1096.0,0.0
+S1-166,Stable PAD,78.9,Male,27.8,0,Former,1,0,1,0.7,53.2,High_school_or_less,36400.0,White,Non_Hispanic,2019-05-19,,,,,,,,,,,,,,,,,,,
+S1-167,CLTI,81.1,Female,33.6,0,Former,1,0,1,0.71,80.5,High_school_or_less,88200.0,Other,Non_Hispanic,2019-10-09,2024-09-04,2022-10-09,,,ObservedBeyondThreeYears,,,,2021-09-12,,1096.0,0.0,2021-09-12,704.0,1.0,1096.0,0.0,1096.0,0.0
+S1-168,CLTI,61.7,Male,23.5,0,Former,1,0,0,0.82,73.7,Some_college,74500.0,White,Non_Hispanic,2019-06-27,2021-08-17,2022-06-27,,,LostToFollowup,2019-08-29,,,2021-01-28,2019-08-29,63.0,1.0,2021-01-28,581.0,1.0,782.0,0.0,782.0,0.0
+S1-169,CLTI,73.5,Male,33.3,0,Current,1,0,0,0.59,66.9,Some_college,25200.0,Asian,Non_Hispanic,2020-07-20,2024-11-21,2023-07-20,,,ObservedBeyondThreeYears,,,,,,1095.0,0.0,,1095.0,0.0,1095.0,0.0,1095.0,0.0
+S1-170,Stable PAD,63.2,Male,39.3,1,Never,1,0,1,0.68,61.4,Some_college,47500.0,White,Non_Hispanic,2020-07-12,,,,,,,,,,,,,,,,,,,
+S1-171,CLTI,77.3,Male,21.8,0,Former,1,0,0,0.52,92.7,Some_college,32100.0,Asian,Non_Hispanic,2020-01-11,2020-06-17,2023-01-11,,,LostToFollowup,,,,,,158.0,0.0,,158.0,0.0,158.0,0.0,158.0,0.0
+S1-172,Stable PAD,62.5,Female,26.4,0,Never,1,1,1,0.55,36.4,High_school_or_less,23100.0,White,Non_Hispanic,2018-11-15,,,,,,,,,,,,,,,,,,,
+S1-173,Stable PAD,48.9,Female,31.8,0,Current,1,0,1,0.57,50.1,Some_college,63900.0,White,Non_Hispanic,2019-03-02,,,,,,,,,,,,,,,,,,,
+S1-174,CLTI,77.9,Female,31.1,0,Former,1,0,1,0.22,88.3,Some_college,64700.0,White,Non_Hispanic,2020-01-20,2021-10-14,2023-01-20,2021-10-14,Cardiovascular,Death,,,,,2021-10-14,633.0,1.0,,633.0,2.0,633.0,2.0,633.0,1.0
+S1-175,CLTI,75.6,Male,28.9,0,Former,1,0,0,0.72,59.5,College_or_more,66000.0,Black,Non_Hispanic,2020-12-15,2023-04-15,2023-12-15,,,LostToFollowup,2023-01-21,2022-05-30,,2021-02-25,2022-05-30,531.0,1.0,2021-02-25,72.0,1.0,851.0,0.0,851.0,0.0
+S1-176,Stable PAD,75.9,Male,25.8,0,Never,1,1,1,0.49,47.6,High_school_or_less,52000.0,White,Non_Hispanic,2019-08-26,,,,,,,,,,,,,,,,,,,
+S1-177,CLTI,68.9,Female,29.9,1,Current,1,0,1,0.62,41.9,High_school_or_less,36000.0,Asian,Non_Hispanic,2020-12-31,2021-06-06,2023-12-31,2021-06-06,Cardiovascular,Death,,,,2021-05-07,2021-06-06,157.0,1.0,2021-05-07,127.0,1.0,157.0,2.0,157.0,1.0
+S1-178,Stable PAD,71.2,Male,30.0,0,Current,0,1,0,0.51,68.9,High_school_or_less,17600.0,Black,Non_Hispanic,2020-10-02,,,,,,,,,,,,,,,,,,,
+S1-179,CLTI,74.8,Male,30.7,0,Former,0,0,0,0.67,34.7,Some_college,27900.0,White,Non_Hispanic,2019-05-18,2021-03-13,2022-05-18,2021-03-13,Cardiovascular,Death,,,,,2021-03-13,665.0,1.0,,665.0,2.0,665.0,2.0,665.0,1.0
+S1-180,CLTI,58.3,Male,29.9,1,Never,1,1,0,0.46,37.3,Some_college,36100.0,Black,Non_Hispanic,2018-03-07,2020-04-01,2021-03-07,,,LostToFollowup,,,,,,756.0,0.0,,756.0,0.0,756.0,0.0,756.0,0.0
+S1-181,CLTI,62.8,Female,31.8,0,Former,1,0,1,0.73,92.9,High_school_or_less,29400.0,White,Non_Hispanic,2020-04-14,2023-07-05,2023-04-14,,,ObservedBeyondThreeYears,,2022-05-04,,2020-09-10,2022-05-04,750.0,1.0,2020-09-10,149.0,1.0,1095.0,0.0,1095.0,0.0
+S1-182,CLTI,54.3,Female,22.1,1,Never,1,0,0,0.84,66.7,College_or_more,30300.0,White,Hispanic,2020-12-05,2025-02-16,2023-12-05,,,ObservedBeyondThreeYears,,,2020-12-28,,,1095.0,0.0,2020-12-28,23.0,1.0,23.0,1.0,1095.0,0.0
+S1-183,CLTI,70.8,Male,29.3,0,Never,1,0,0,0.7,53.3,Some_college,76300.0,Asian,Hispanic,2018-04-01,2021-10-06,2021-04-01,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-184,CLTI,49.5,Male,29.1,0,Former,1,0,1,0.23,61.1,High_school_or_less,78800.0,White,Non_Hispanic,2019-02-20,2022-12-25,2022-02-20,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-185,Stable PAD,69.8,Female,32.6,0,Former,1,0,1,0.77,36.0,Some_college,28600.0,Asian,Non_Hispanic,2019-04-12,,,,,,,,,,,,,,,,,,,
+S1-186,CLTI,68.1,Male,33.1,1,Never,1,0,0,0.62,58.2,Some_college,66800.0,Other,Non_Hispanic,2018-09-21,2022-06-24,2021-09-21,,,ObservedBeyondThreeYears,,2021-10-25,,2021-02-28,2021-10-25,1096.0,0.0,2021-02-28,891.0,1.0,1096.0,0.0,1096.0,0.0
+S1-187,CLTI,69.6,Male,26.4,1,Current,1,0,1,0.82,75.7,College_or_more,250000.0,White,Non_Hispanic,2018-10-12,2023-03-13,2021-10-12,,,ObservedBeyondThreeYears,,,,2019-06-28,,1096.0,0.0,2019-06-28,259.0,1.0,1096.0,0.0,1096.0,0.0
+S1-188,Stable PAD,57.9,Female,28.9,0,Never,1,0,0,0.63,16.9,Some_college,72600.0,Asian,Non_Hispanic,2018-01-20,,,,,,,,,,,,,,,,,,,
+S1-189,Stable PAD,63.8,Female,27.9,1,Never,1,0,0,0.88,62.4,College_or_more,56600.0,Black,Non_Hispanic,2018-12-24,,,,,,,,,,,,,,,,,,,
+S1-190,CLTI,89.6,Male,25.0,0,Former,1,1,0,0.46,69.7,High_school_or_less,38000.0,Black,Hispanic,2019-05-16,2021-10-09,2022-05-16,2021-10-09,Noncardiovascular,Death,,,2019-05-23,2021-04-29,,877.0,2.0,2019-05-23,7.0,1.0,7.0,1.0,877.0,1.0
+S1-191,Stable PAD,63.4,Male,34.9,0,Never,1,0,0,0.58,5.0,Some_college,81100.0,Black,Non_Hispanic,2018-11-17,,,,,,,,,,,,,,,,,,,
+S1-192,Stable PAD,73.1,Male,29.2,0,Current,1,1,0,0.62,67.1,High_school_or_less,70100.0,Other,Hispanic,2018-05-12,,,,,,,,,,,,,,,,,,,
+S1-193,CLTI,74.0,Male,28.6,1,Current,1,1,1,0.78,59.1,High_school_or_less,59100.0,White,Non_Hispanic,2019-11-01,2023-08-05,2022-11-01,,,ObservedBeyondThreeYears,2021-12-10,,,,2021-12-10,770.0,1.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-194,Stable PAD,73.8,Male,33.0,0,Current,0,0,1,0.76,47.6,High_school_or_less,72900.0,White,Non_Hispanic,2019-09-24,,,,,,,,,,,,,,,,,,,
+S1-195,Stable PAD,70.5,Female,29.4,0,Former,1,0,0,0.99,65.0,Some_college,99600.0,Other,Non_Hispanic,2018-02-07,,,,,,,,,,,,,,,,,,,
+S1-196,CLTI,76.6,Male,31.4,0,Former,1,0,0,0.5,48.2,High_school_or_less,69500.0,Black,Hispanic,2019-04-09,2023-08-19,2022-04-09,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-197,CLTI,59.3,Female,34.7,0,Current,1,0,1,0.35,66.1,College_or_more,26500.0,White,Hispanic,2018-07-08,2018-10-15,2021-07-08,2018-10-15,Noncardiovascular,Death,,,2018-07-26,,,99.0,2.0,2018-07-26,18.0,1.0,18.0,1.0,99.0,1.0
+S1-198,CLTI,77.8,Male,34.9,1,Current,1,0,0,0.76,89.5,High_school_or_less,42200.0,Black,Non_Hispanic,2020-07-13,2023-03-02,2023-07-13,2023-03-02,Noncardiovascular,Death,,,2021-01-09,,,962.0,2.0,2021-01-09,180.0,1.0,180.0,1.0,962.0,1.0
+S1-199,CLTI,54.7,Female,23.4,1,Former,1,1,0,0.71,51.8,College_or_more,58900.0,White,Non_Hispanic,2020-10-21,2024-03-19,2023-10-21,,,ObservedBeyondThreeYears,,2021-08-14,,2023-10-25,2021-08-14,297.0,1.0,2023-10-25,1095.0,0.0,1095.0,0.0,1095.0,0.0
+S1-200,CLTI,67.4,Male,32.1,0,Current,1,0,1,0.66,56.2,Some_college,45900.0,Black,Non_Hispanic,2018-03-18,2020-08-01,2021-03-18,,,LostToFollowup,,,,,,867.0,0.0,,867.0,0.0,867.0,0.0,867.0,0.0
+S1-201,CLTI,68.4,Male,24.4,1,Never,1,0,0,0.36,79.4,Some_college,65400.0,White,Non_Hispanic,2018-04-23,2019-12-26,2021-04-23,,,LostToFollowup,,2019-01-04,2018-12-13,,2019-01-04,256.0,1.0,2018-12-13,234.0,1.0,234.0,1.0,612.0,0.0
+S1-202,CLTI,57.4,Male,27.8,0,Current,1,0,0,0.66,48.5,Some_college,51400.0,Black,Hispanic,2020-01-19,2024-06-23,2023-01-19,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-203,Stable PAD,68.3,Male,29.4,1,Former,0,0,0,0.76,47.4,College_or_more,65600.0,White,Non_Hispanic,2019-06-01,,,,,,,,,,,,,,,,,,,
+S1-204,Stable PAD,58.4,Male,35.7,1,Never,0,0,0,0.73,35.1,High_school_or_less,112400.0,White,Non_Hispanic,2020-04-15,,,,,,,,,,,,,,,,,,,
+S1-205,CLTI,70.9,Male,23.5,1,Former,1,0,1,0.69,15.9,High_school_or_less,35100.0,Black,Non_Hispanic,2020-03-21,2024-06-25,2023-03-21,,,ObservedBeyondThreeYears,,,,,,1095.0,0.0,,1095.0,0.0,1095.0,0.0,1095.0,0.0
+S1-206,CLTI,88.7,Female,24.7,1,Current,1,1,1,0.8,8.1,College_or_more,78700.0,Black,Hispanic,2019-03-31,2023-11-03,2022-03-31,2023-11-03,Noncardiovascular,Death,,,2023-02-03,2022-03-08,,1096.0,0.0,2022-03-08,1073.0,1.0,1096.0,0.0,1096.0,0.0
+S1-207,CLTI,62.9,Female,27.2,0,Former,0,0,1,0.83,81.4,Some_college,24400.0,White,Non_Hispanic,2019-09-15,2019-12-23,2022-09-15,2019-12-23,Noncardiovascular,Death,,,,,,99.0,2.0,,99.0,2.0,99.0,2.0,99.0,1.0
+S1-208,Stable PAD,56.1,Male,27.5,0,Former,1,0,0,0.61,40.2,High_school_or_less,27500.0,Other,Hispanic,2019-01-24,,,,,,,,,,,,,,,,,,,
+S1-209,Stable PAD,57.8,Male,32.2,1,Former,1,0,0,0.89,29.9,High_school_or_less,71400.0,White,Non_Hispanic,2019-05-22,,,,,,,,,,,,,,,,,,,
+S1-210,CLTI,76.9,Female,25.2,1,Current,1,0,1,0.34,71.6,College_or_more,75300.0,Black,Non_Hispanic,2019-06-14,2019-07-02,2022-06-14,2019-07-02,Noncardiovascular,Death,,,,,,18.0,2.0,,18.0,2.0,18.0,2.0,18.0,1.0
+S1-211,CLTI,69.7,Male,34.7,0,Current,0,1,0,0.95,78.6,College_or_more,29600.0,White,Non_Hispanic,2019-06-10,2020-08-10,2022-06-10,,,LostToFollowup,,,,2019-12-28,,427.0,0.0,2019-12-28,201.0,1.0,427.0,0.0,427.0,0.0
+S1-212,Stable PAD,54.9,Male,26.9,0,Former,1,0,0,0.82,30.3,College_or_more,12800.0,Other,Non_Hispanic,2020-07-12,,,,,,,,,,,,,,,,,,,
+S1-213,CLTI,70.3,Male,33.5,1,Current,1,1,1,0.57,64.3,Some_college,53300.0,White,Non_Hispanic,2020-01-09,2022-02-20,2023-01-09,2022-02-20,Noncardiovascular,Death,,2020-07-04,,,2020-07-04,177.0,1.0,,773.0,2.0,773.0,2.0,773.0,1.0
+S1-214,Stable PAD,57.5,Female,22.1,1,Current,1,0,1,0.81,61.8,High_school_or_less,64200.0,Asian,Non_Hispanic,2019-11-16,,,,,,,,,,,,,,,,,,,
+S1-215,Stable PAD,68.9,Female,20.7,0,Former,1,0,1,0.75,70.1,High_school_or_less,26500.0,White,Non_Hispanic,2019-10-09,,,,,,,,,,,,,,,,,,,
+S1-216,CLTI,65.6,Male,28.3,1,Current,1,0,1,0.49,79.9,College_or_more,61800.0,Other,Non_Hispanic,2020-08-07,2021-12-15,2023-08-07,2021-12-15,Noncardiovascular,Death,,2021-04-18,,,2021-04-18,254.0,1.0,,495.0,2.0,495.0,2.0,495.0,1.0
+S1-217,Stable PAD,66.5,Male,21.6,0,Never,1,1,0,0.53,7.7,High_school_or_less,65600.0,Black,Non_Hispanic,2020-05-14,,,,,,,,,,,,,,,,,,,
+S1-218,CLTI,62.5,Male,25.8,0,Current,1,0,0,0.76,61.4,College_or_more,22900.0,Black,Non_Hispanic,2020-02-27,2022-07-02,2023-02-27,2022-07-02,Noncardiovascular,Death,,2021-06-13,,,2021-06-13,472.0,1.0,,856.0,2.0,856.0,2.0,856.0,1.0
+S1-219,CLTI,65.9,Female,25.5,1,Former,1,0,0,0.4,99.9,High_school_or_less,46600.0,Other,Non_Hispanic,2019-05-03,2019-12-21,2022-05-03,,,LostToFollowup,,,,,,232.0,0.0,,232.0,0.0,232.0,0.0,232.0,0.0
+S1-220,CLTI,63.5,Male,22.2,0,Never,1,0,0,0.59,56.9,High_school_or_less,22000.0,White,Non_Hispanic,2019-09-12,2023-07-20,2022-09-12,,,ObservedBeyondThreeYears,,,,2023-02-19,,1096.0,0.0,2023-02-19,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-221,Stable PAD,59.4,Female,28.2,0,Former,0,1,0,0.42,64.4,College_or_more,197100.0,White,Hispanic,2019-04-18,,,,,,,,,,,,,,,,,,,
+S1-222,CLTI,63.5,Female,27.9,0,Former,0,0,1,0.74,54.3,College_or_more,49200.0,Black,Non_Hispanic,2020-03-18,2023-09-13,2023-03-18,,,ObservedBeyondThreeYears,,2022-01-11,,,2022-01-11,664.0,1.0,,1095.0,0.0,1095.0,0.0,1095.0,0.0
+S1-223,CLTI,60.2,Male,35.5,0,Never,1,1,1,0.87,60.2,High_school_or_less,153500.0,Black,Non_Hispanic,2019-04-03,2020-04-15,2022-04-03,,,LostToFollowup,,,,,,378.0,0.0,,378.0,0.0,378.0,0.0,378.0,0.0
+S1-224,Stable PAD,70.3,Female,32.7,1,Current,1,1,0,0.63,59.9,Some_college,62700.0,Black,Hispanic,2018-12-16,,,,,,,,,,,,,,,,,,,
+S1-225,Stable PAD,63.3,Male,24.3,0,Former,0,0,0,0.74,49.0,Some_college,59600.0,Black,Non_Hispanic,2018-06-29,,,,,,,,,,,,,,,,,,,
+S1-226,Stable PAD,69.3,Female,24.2,0,Never,1,0,0,0.58,48.0,Some_college,40900.0,White,Non_Hispanic,2020-12-26,,,,,,,,,,,,,,,,,,,
+S1-227,Stable PAD,56.8,Male,37.3,0,Former,1,0,0,0.8,77.8,High_school_or_less,33300.0,White,Non_Hispanic,2020-01-04,,,,,,,,,,,,,,,,,,,
+S1-228,Stable PAD,58.1,Female,27.4,0,Current,1,0,0,0.44,25.0,High_school_or_less,125100.0,Asian,Non_Hispanic,2020-11-10,,,,,,,,,,,,,,,,,,,
+S1-229,Stable PAD,68.5,Female,35.5,1,Former,1,0,0,0.65,24.2,Some_college,38000.0,White,Non_Hispanic,2019-10-27,,,,,,,,,,,,,,,,,,,
+S1-230,Stable PAD,75.5,Male,32.8,0,Former,1,0,1,0.81,72.6,Some_college,80400.0,White,Non_Hispanic,2019-02-18,,,,,,,,,,,,,,,,,,,
+S1-231,CLTI,57.0,Female,25.7,0,Current,1,1,1,0.89,39.7,Some_college,75100.0,Black,Non_Hispanic,2020-01-27,2020-06-12,2023-01-27,,,LostToFollowup,,,,,,137.0,0.0,,137.0,0.0,137.0,0.0,137.0,0.0
+S1-232,CLTI,80.5,Female,21.0,0,Current,1,1,1,0.7,46.0,High_school_or_less,56400.0,Black,Non_Hispanic,2020-08-28,2020-12-17,2023-08-28,2020-12-17,Cardiovascular,Death,,,,,2020-12-17,111.0,1.0,,111.0,2.0,111.0,2.0,111.0,1.0
+S1-233,CLTI,75.1,Female,25.6,1,Former,1,0,0,0.34,79.4,Some_college,53900.0,White,Non_Hispanic,2018-12-27,2022-07-15,2021-12-27,,,ObservedBeyondThreeYears,,,2022-01-03,,,1096.0,0.0,2022-01-03,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-234,Stable PAD,67.1,Male,35.5,1,Current,1,0,1,0.61,56.7,High_school_or_less,167200.0,White,Non_Hispanic,2020-08-23,,,,,,,,,,,,,,,,,,,
+S1-235,Stable PAD,67.0,Female,31.3,0,Current,0,0,1,0.68,32.0,Some_college,34200.0,Black,Non_Hispanic,2019-07-07,,,,,,,,,,,,,,,,,,,
+S1-236,Stable PAD,59.7,Male,27.0,0,Never,1,0,0,0.23,30.0,Some_college,95400.0,Black,Non_Hispanic,2020-07-23,,,,,,,,,,,,,,,,,,,
+S1-237,Stable PAD,55.9,Male,28.2,0,Former,1,0,0,0.37,57.9,High_school_or_less,27100.0,White,Non_Hispanic,2018-02-06,,,,,,,,,,,,,,,,,,,
+S1-238,CLTI,76.2,Male,27.1,0,Former,1,1,1,0.63,64.8,College_or_more,77700.0,Black,Non_Hispanic,2018-05-13,2022-07-08,2021-05-13,,,ObservedBeyondThreeYears,,,2021-05-23,2018-09-25,,1096.0,0.0,2018-09-25,135.0,1.0,1096.0,0.0,1096.0,0.0
+S1-239,Stable PAD,65.2,Male,27.7,0,Never,1,0,1,0.49,64.4,College_or_more,46700.0,White,Non_Hispanic,2019-10-02,,,,,,,,,,,,,,,,,,,
+S1-240,Stable PAD,56.6,Female,31.8,0,Former,1,0,1,0.65,61.8,Some_college,110000.0,White,Non_Hispanic,2020-08-21,,,,,,,,,,,,,,,,,,,
+S1-241,CLTI,77.2,Female,34.1,1,Current,1,0,0,0.6,68.7,High_school_or_less,61900.0,Black,Hispanic,2019-04-09,2020-12-19,2022-04-09,2020-12-19,Noncardiovascular,Death,,2020-04-29,,,2020-04-29,386.0,1.0,,620.0,2.0,620.0,2.0,620.0,1.0
+S1-242,Stable PAD,79.2,Male,21.4,0,Never,0,0,0,0.78,84.8,High_school_or_less,46500.0,White,Non_Hispanic,2018-12-13,,,,,,,,,,,,,,,,,,,
+S1-243,Stable PAD,62.0,Male,26.0,1,Former,0,0,0,0.4,64.1,High_school_or_less,21100.0,Other,Non_Hispanic,2020-11-16,,,,,,,,,,,,,,,,,,,
+S1-244,Stable PAD,74.1,Male,28.5,0,Current,1,1,0,0.58,45.0,High_school_or_less,38500.0,Other,Hispanic,2019-09-26,,,,,,,,,,,,,,,,,,,
+S1-245,CLTI,73.6,Female,26.2,0,Former,1,0,0,0.77,69.4,College_or_more,56000.0,White,Non_Hispanic,2020-09-15,2025-01-30,2023-09-15,,,ObservedBeyondThreeYears,2022-03-07,,,2021-10-06,2022-03-07,538.0,1.0,2021-10-06,386.0,1.0,1095.0,0.0,1095.0,0.0
+S1-246,Stable PAD,70.4,Male,27.3,0,Never,1,1,0,0.47,75.0,College_or_more,46700.0,Other,Non_Hispanic,2019-10-26,,,,,,,,,,,,,,,,,,,
+S1-247,Stable PAD,65.9,Female,21.0,1,Never,1,0,1,0.52,54.8,College_or_more,39700.0,White,Non_Hispanic,2018-04-23,,,,,,,,,,,,,,,,,,,
+S1-248,Stable PAD,67.4,Male,32.3,0,Never,1,0,1,0.9,50.3,High_school_or_less,78400.0,Black,Non_Hispanic,2019-10-20,,,,,,,,,,,,,,,,,,,
+S1-249,CLTI,82.7,Male,26.8,1,Current,1,0,0,0.34,52.6,College_or_more,18700.0,White,Non_Hispanic,2020-01-12,2021-08-22,2023-01-12,2021-08-22,Cardiovascular,Death,,2020-05-05,,,2020-05-05,114.0,1.0,,588.0,2.0,588.0,2.0,588.0,1.0
+S1-250,CLTI,73.6,Male,33.5,0,Current,1,0,1,0.5,38.4,High_school_or_less,43400.0,Black,Non_Hispanic,2020-07-16,2021-05-08,2023-07-16,,,LostToFollowup,,,2021-01-06,,,296.0,0.0,2021-01-06,174.0,1.0,174.0,1.0,296.0,0.0
+S1-251,CLTI,53.7,Female,29.8,0,Never,1,0,0,0.24,60.5,Some_college,42200.0,White,Non_Hispanic,2019-12-12,2024-03-15,2022-12-12,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-252,CLTI,71.8,Male,36.3,0,Never,1,0,0,0.75,16.3,College_or_more,19100.0,White,Non_Hispanic,2020-07-05,2024-02-28,2023-07-05,,,ObservedBeyondThreeYears,,,,,,1095.0,0.0,,1095.0,0.0,1095.0,0.0,1095.0,0.0
+S1-253,CLTI,78.7,Female,18.0,0,Current,1,0,0,0.81,47.3,Some_college,67600.0,Other,Non_Hispanic,2020-08-01,2024-07-14,2023-08-01,,,ObservedBeyondThreeYears,,,,2023-03-17,,1095.0,0.0,2023-03-17,958.0,1.0,1095.0,0.0,1095.0,0.0
+S1-254,CLTI,61.7,Female,36.3,1,Never,1,1,1,0.56,56.1,College_or_more,97600.0,Other,Non_Hispanic,2020-06-03,2024-03-11,2023-06-03,2024-03-11,Cardiovascular,Death,2021-03-20,,2021-04-23,2024-02-12,2021-03-20,290.0,1.0,2021-04-23,324.0,1.0,324.0,1.0,1095.0,0.0
+S1-255,CLTI,73.5,Male,33.9,1,Former,1,0,1,1.01,27.8,High_school_or_less,44800.0,Black,Non_Hispanic,2020-11-13,2024-11-08,2023-11-13,,,ObservedBeyondThreeYears,,,2024-02-28,,,1095.0,0.0,2024-02-28,1095.0,0.0,1095.0,0.0,1095.0,0.0
+S1-256,CLTI,77.2,Female,18.0,0,Never,1,0,0,0.77,31.7,Some_college,47800.0,White,Non_Hispanic,2019-10-24,2022-03-01,2022-10-24,,,LostToFollowup,,,,,,859.0,0.0,,859.0,0.0,859.0,0.0,859.0,0.0
+S1-257,CLTI,68.3,Male,31.0,0,Never,0,0,1,0.58,37.9,Some_college,156500.0,White,Non_Hispanic,2018-08-16,2020-04-03,2021-08-16,,,LostToFollowup,,,2018-12-27,,,596.0,0.0,2018-12-27,133.0,1.0,133.0,1.0,596.0,0.0
+S1-258,Stable PAD,58.8,Female,22.5,0,Former,1,0,1,0.97,48.4,College_or_more,41600.0,White,Non_Hispanic,2018-02-27,,,,,,,,,,,,,,,,,,,
+S1-259,CLTI,66.5,Male,26.0,0,Never,1,0,0,0.66,75.4,College_or_more,48200.0,Other,Non_Hispanic,2019-12-03,2021-08-07,2022-12-03,,,LostToFollowup,,,,,,613.0,0.0,,613.0,0.0,613.0,0.0,613.0,0.0
+S1-260,Stable PAD,59.0,Male,26.3,0,Former,1,0,1,0.77,68.9,High_school_or_less,20300.0,White,Non_Hispanic,2019-07-07,,,,,,,,,,,,,,,,,,,
+S1-261,Stable PAD,59.6,Male,29.2,0,Former,1,0,1,0.45,43.4,College_or_more,23300.0,Black,Non_Hispanic,2020-02-27,,,,,,,,,,,,,,,,,,,
+S1-262,Stable PAD,90.0,Female,24.2,0,Former,1,0,0,0.59,30.2,Some_college,128900.0,White,Non_Hispanic,2018-11-14,,,,,,,,,,,,,,,,,,,
+S1-263,Stable PAD,69.7,Male,31.7,1,Never,1,0,1,0.59,23.7,High_school_or_less,43100.0,White,Non_Hispanic,2018-08-09,,,,,,,,,,,,,,,,,,,
+S1-264,CLTI,74.7,Male,24.6,0,Former,1,0,0,0.52,26.4,College_or_more,250000.0,Black,Non_Hispanic,2018-01-31,2022-08-14,2021-01-31,,,ObservedBeyondThreeYears,,2021-09-21,2018-07-02,,2021-09-21,1096.0,0.0,2018-07-02,152.0,1.0,152.0,1.0,1096.0,0.0
+S1-265,Stable PAD,69.1,Male,29.7,0,Former,1,0,0,0.48,37.8,Some_college,43600.0,Black,Hispanic,2018-06-26,,,,,,,,,,,,,,,,,,,
+S1-266,CLTI,72.5,Male,24.9,1,Former,1,0,0,0.69,86.6,College_or_more,59300.0,White,Hispanic,2020-02-24,2023-10-01,2023-02-24,,,ObservedBeyondThreeYears,,,2022-03-11,2020-03-29,,1096.0,0.0,2020-03-29,34.0,1.0,746.0,1.0,1096.0,0.0
+S1-267,CLTI,69.5,Male,23.1,1,Current,1,1,0,0.76,57.9,Some_college,66300.0,White,Non_Hispanic,2018-03-11,2019-10-07,2021-03-11,,,LostToFollowup,,,,,,575.0,0.0,,575.0,0.0,575.0,0.0,575.0,0.0
+S1-268,Stable PAD,66.2,Male,30.0,0,Former,1,0,0,0.73,70.0,High_school_or_less,28900.0,White,Non_Hispanic,2018-05-12,,,,,,,,,,,,,,,,,,,
+S1-269,Stable PAD,57.3,Female,30.1,0,Former,1,0,1,0.78,31.6,Some_college,31800.0,White,Hispanic,2018-12-08,,,,,,,,,,,,,,,,,,,
+S1-270,Stable PAD,72.2,Male,31.3,0,Never,0,0,1,0.61,33.8,Some_college,33100.0,White,Non_Hispanic,2018-09-23,,,,,,,,,,,,,,,,,,,
+S1-271,CLTI,71.1,Male,27.4,0,Current,0,1,1,0.42,55.5,College_or_more,71500.0,Black,Non_Hispanic,2019-10-27,2024-06-26,2022-10-27,,,ObservedBeyondThreeYears,2023-02-23,,,2023-01-28,2023-02-23,1096.0,0.0,2023-01-28,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-272,CLTI,73.1,Female,21.6,1,Never,1,0,0,0.69,44.2,High_school_or_less,96500.0,Other,Non_Hispanic,2019-09-13,2023-10-11,2022-09-13,2023-10-11,Noncardiovascular,Death,,,,2020-10-16,,1096.0,0.0,2020-10-16,399.0,1.0,1096.0,0.0,1096.0,0.0
+S1-273,Stable PAD,65.1,Male,25.8,0,Never,1,0,0,0.48,48.7,Some_college,29500.0,Black,Non_Hispanic,2018-08-12,,,,,,,,,,,,,,,,,,,
+S1-274,Stable PAD,58.7,Female,34.6,0,Never,1,0,0,0.57,25.7,College_or_more,20300.0,Asian,Non_Hispanic,2018-06-15,,,,,,,,,,,,,,,,,,,
+S1-275,Stable PAD,84.9,Male,26.3,1,Former,1,1,0,0.99,64.1,High_school_or_less,37000.0,Black,Non_Hispanic,2018-04-04,,,,,,,,,,,,,,,,,,,
+S1-276,CLTI,72.8,Male,26.5,0,Former,0,0,0,0.87,54.7,High_school_or_less,66400.0,White,Non_Hispanic,2020-08-21,2025-05-08,2023-08-21,,,ObservedBeyondThreeYears,,,,,,1095.0,0.0,,1095.0,0.0,1095.0,0.0,1095.0,0.0
+S1-277,Stable PAD,79.5,Female,33.4,0,Never,1,1,0,0.61,50.8,High_school_or_less,56200.0,Black,Non_Hispanic,2020-12-31,,,,,,,,,,,,,,,,,,,
+S1-278,Stable PAD,74.2,Male,29.1,0,Former,0,1,1,0.46,76.3,College_or_more,24100.0,White,Non_Hispanic,2019-07-13,,,,,,,,,,,,,,,,,,,
+S1-279,CLTI,54.7,Female,18.0,1,Former,0,0,0,0.88,73.3,Some_college,44700.0,White,Non_Hispanic,2019-10-13,2020-04-10,2022-10-13,,,LostToFollowup,,,,,,180.0,0.0,,180.0,0.0,180.0,0.0,180.0,0.0
+S1-280,Stable PAD,61.1,Male,26.7,1,Former,1,0,1,0.55,14.6,High_school_or_less,54200.0,Black,Non_Hispanic,2019-09-27,,,,,,,,,,,,,,,,,,,
+S1-281,Stable PAD,63.1,Male,23.5,0,Never,1,0,0,0.33,47.8,High_school_or_less,35900.0,White,Non_Hispanic,2020-09-10,,,,,,,,,,,,,,,,,,,
+S1-282,CLTI,69.1,Female,25.6,1,Former,1,0,0,0.15,52.6,Some_college,32500.0,Black,Non_Hispanic,2020-08-31,2025-05-09,2023-08-31,,,ObservedBeyondThreeYears,,,2022-11-16,,,1095.0,0.0,2022-11-16,807.0,1.0,807.0,1.0,1095.0,0.0
+S1-283,CLTI,75.6,Male,34.2,1,Current,1,1,0,0.59,81.6,High_school_or_less,22300.0,White,Non_Hispanic,2019-02-18,2023-04-19,2022-02-18,2023-04-19,Cardiovascular,Death,2019-05-23,2020-03-31,2019-04-29,,2019-05-23,94.0,1.0,2019-04-29,70.0,1.0,70.0,1.0,1096.0,0.0
+S1-284,Stable PAD,67.9,Female,21.9,0,Former,0,0,0,0.76,71.5,College_or_more,92300.0,Asian,Non_Hispanic,2019-07-17,,,,,,,,,,,,,,,,,,,
+S1-285,CLTI,54.3,Male,29.3,0,Current,1,0,1,0.47,62.3,Some_college,74200.0,Other,Non_Hispanic,2020-03-18,2021-04-21,2023-03-18,2021-04-21,Noncardiovascular,Death,,,,,,399.0,2.0,,399.0,2.0,399.0,2.0,399.0,1.0
+S1-286,CLTI,65.6,Male,25.6,1,Former,0,0,0,0.53,67.7,Some_college,63800.0,White,Non_Hispanic,2019-12-03,2023-04-29,2022-12-03,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-287,CLTI,69.5,Female,32.1,1,Never,1,0,1,0.37,76.9,Some_college,60400.0,Black,Non_Hispanic,2020-09-05,2021-03-13,2023-09-05,2021-03-13,Cardiovascular,Death,,,,,2021-03-13,189.0,1.0,,189.0,2.0,189.0,2.0,189.0,1.0
+S1-288,CLTI,47.9,Male,27.9,1,Never,0,0,1,0.28,58.8,College_or_more,57400.0,Other,Hispanic,2019-06-05,2021-03-08,2022-06-05,,,LostToFollowup,,,,,,642.0,0.0,,642.0,0.0,642.0,0.0,642.0,0.0
+S1-289,Stable PAD,66.7,Female,20.5,0,Former,1,0,0,0.61,37.0,College_or_more,103100.0,White,Non_Hispanic,2018-10-16,,,,,,,,,,,,,,,,,,,
+S1-290,CLTI,78.3,Female,22.4,0,Former,1,0,0,0.64,23.0,High_school_or_less,48600.0,Black,Non_Hispanic,2018-08-03,2022-11-02,2021-08-03,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-291,Stable PAD,61.7,Male,27.2,1,Never,1,0,0,0.6,42.7,Some_college,29400.0,Black,Hispanic,2020-03-07,,,,,,,,,,,,,,,,,,,
+S1-292,Stable PAD,47.3,Male,26.0,0,Never,1,0,0,0.27,19.0,High_school_or_less,87800.0,Other,Non_Hispanic,2020-11-02,,,,,,,,,,,,,,,,,,,
+S1-293,Stable PAD,62.9,Female,30.4,0,Former,0,0,0,0.86,84.0,College_or_more,62100.0,Black,Non_Hispanic,2020-06-21,,,,,,,,,,,,,,,,,,,
+S1-294,Stable PAD,74.5,Male,30.3,0,Former,1,0,1,0.74,55.4,Some_college,35600.0,White,Non_Hispanic,2019-10-18,,,,,,,,,,,,,,,,,,,
+S1-295,CLTI,68.6,Male,23.5,0,Current,1,0,1,0.48,46.1,Some_college,28900.0,White,Non_Hispanic,2018-08-24,2019-07-26,2021-08-24,2019-07-26,Noncardiovascular,Death,,,,,,336.0,2.0,,336.0,2.0,336.0,2.0,336.0,1.0
+S1-296,CLTI,53.4,Female,34.9,1,Former,1,0,0,0.81,50.9,Some_college,47600.0,Black,Hispanic,2019-09-23,2021-10-07,2022-09-23,2021-10-07,Noncardiovascular,Death,,,,,,745.0,2.0,,745.0,2.0,745.0,2.0,745.0,1.0
+S1-297,CLTI,76.6,Female,26.5,0,Former,1,1,0,0.54,69.9,High_school_or_less,40300.0,White,Non_Hispanic,2018-07-23,2020-04-30,2021-07-23,,,LostToFollowup,,,2019-10-12,,,647.0,0.0,2019-10-12,446.0,1.0,446.0,1.0,647.0,0.0
+S1-298,Stable PAD,55.5,Female,32.9,1,Never,1,0,1,0.83,66.5,Some_college,56200.0,Black,Non_Hispanic,2019-07-17,,,,,,,,,,,,,,,,,,,
+S1-299,CLTI,82.6,Male,23.9,0,Never,1,0,0,0.4,62.6,High_school_or_less,120000.0,White,Non_Hispanic,2019-12-17,2023-03-11,2022-12-17,,,ObservedBeyondThreeYears,,,,2020-01-19,,1096.0,0.0,2020-01-19,33.0,1.0,1096.0,0.0,1096.0,0.0
+S1-300,Stable PAD,56.0,Female,30.5,0,Current,1,0,1,0.61,39.9,Some_college,26500.0,White,Non_Hispanic,2019-06-19,,,,,,,,,,,,,,,,,,,
+S1-301,CLTI,77.6,Male,31.5,1,Current,1,0,1,0.3,39.2,High_school_or_less,37800.0,White,Non_Hispanic,2020-03-14,2020-09-10,2023-03-14,2020-09-10,Cardiovascular,Death,,,2020-03-15,,2020-09-10,180.0,1.0,2020-03-15,1.0,1.0,1.0,1.0,180.0,1.0
+S1-302,CLTI,62.9,Male,27.8,1,Former,1,1,1,0.53,60.4,College_or_more,108200.0,Black,Non_Hispanic,2018-04-16,2021-11-28,2021-04-16,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-303,CLTI,69.4,Female,26.3,0,Former,1,0,1,0.64,35.4,High_school_or_less,74900.0,White,Non_Hispanic,2018-09-25,2022-09-10,2021-09-25,,,ObservedBeyondThreeYears,,2022-01-08,,2021-08-13,2022-01-08,1096.0,0.0,2021-08-13,1053.0,1.0,1096.0,0.0,1096.0,0.0
+S1-304,CLTI,90.0,Female,30.5,1,Current,1,1,1,0.85,40.9,High_school_or_less,182300.0,Black,Non_Hispanic,2018-06-01,2022-06-10,2021-06-01,,,ObservedBeyondThreeYears,2022-02-17,,2019-08-05,,2022-02-17,1096.0,0.0,2019-08-05,430.0,1.0,430.0,1.0,1096.0,0.0
+S1-305,CLTI,67.2,Female,30.9,0,Never,0,0,1,0.9,28.8,Some_college,38100.0,White,Non_Hispanic,2019-02-10,2023-06-29,2022-02-10,,,ObservedBeyondThreeYears,,,2019-12-17,,,1096.0,0.0,2019-12-17,310.0,1.0,310.0,1.0,1096.0,0.0
+S1-306,Stable PAD,59.9,Male,28.3,0,Former,1,0,0,0.54,84.3,High_school_or_less,113500.0,Black,Non_Hispanic,2020-04-23,,,,,,,,,,,,,,,,,,,
+S1-307,CLTI,65.2,Male,27.5,0,Former,1,0,0,0.45,49.9,High_school_or_less,32200.0,White,Non_Hispanic,2019-04-28,2023-08-29,2022-04-28,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-308,CLTI,69.6,Male,37.6,0,Current,1,0,0,0.75,44.1,High_school_or_less,32000.0,Black,Non_Hispanic,2018-12-18,2022-11-29,2021-12-18,,,ObservedBeyondThreeYears,,,2022-07-13,2020-05-26,,1096.0,0.0,2020-05-26,525.0,1.0,1096.0,0.0,1096.0,0.0
+S1-309,CLTI,82.6,Male,26.2,1,Former,1,1,0,0.45,49.8,College_or_more,145100.0,White,Non_Hispanic,2019-02-06,2019-07-28,2022-02-06,2019-07-28,Cardiovascular,Death,,,,,2019-07-28,172.0,1.0,,172.0,2.0,172.0,2.0,172.0,1.0
+S1-310,Stable PAD,70.3,Female,26.9,0,Former,1,0,0,0.52,68.7,High_school_or_less,42900.0,Black,Non_Hispanic,2018-03-19,,,,,,,,,,,,,,,,,,,
+S1-311,Stable PAD,55.3,Male,29.2,0,Former,1,0,0,0.5,21.0,High_school_or_less,47600.0,White,Non_Hispanic,2018-11-10,,,,,,,,,,,,,,,,,,,
+S1-312,CLTI,70.3,Male,23.1,0,Never,1,0,0,0.81,25.8,Some_college,24500.0,White,Non_Hispanic,2020-08-17,2024-03-28,2023-08-17,,,ObservedBeyondThreeYears,,2022-10-11,,,2022-10-11,785.0,1.0,,1095.0,0.0,1095.0,0.0,1095.0,0.0
+S1-313,Stable PAD,61.0,Male,24.8,0,Current,1,0,0,0.37,70.7,High_school_or_less,28900.0,White,Non_Hispanic,2018-02-07,,,,,,,,,,,,,,,,,,,
+S1-314,Stable PAD,84.6,Male,27.9,0,Current,1,0,0,0.2,28.4,Some_college,49600.0,White,Non_Hispanic,2018-02-08,,,,,,,,,,,,,,,,,,,
+S1-315,Stable PAD,70.3,Male,19.9,1,Never,0,1,0,0.68,44.8,Some_college,74400.0,Other,Hispanic,2020-03-20,,,,,,,,,,,,,,,,,,,
+S1-316,Stable PAD,68.0,Female,34.7,1,Current,1,0,0,0.7,81.7,High_school_or_less,67800.0,White,Non_Hispanic,2018-04-20,,,,,,,,,,,,,,,,,,,
+S1-317,Stable PAD,70.7,Male,39.0,0,Never,1,0,0,0.58,55.7,College_or_more,86800.0,White,Non_Hispanic,2020-09-05,,,,,,,,,,,,,,,,,,,
+S1-318,CLTI,81.8,Female,28.0,0,Current,1,0,1,0.79,46.3,College_or_more,61100.0,Asian,Non_Hispanic,2020-09-01,2025-02-15,2023-09-01,,,ObservedBeyondThreeYears,,,,,,1095.0,0.0,,1095.0,0.0,1095.0,0.0,1095.0,0.0
+S1-319,CLTI,73.4,Male,30.8,0,Former,1,0,1,0.54,74.3,Some_college,77200.0,Black,Hispanic,2018-09-18,2020-07-11,2021-09-18,2020-07-11,Noncardiovascular,Death,2018-10-20,,,,2018-10-20,32.0,1.0,,662.0,2.0,662.0,2.0,662.0,1.0
+S1-320,CLTI,56.5,Male,31.3,0,Former,1,0,1,0.66,67.5,Some_college,38300.0,White,Non_Hispanic,2018-03-02,2021-05-01,2021-03-02,,,ObservedBeyondThreeYears,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-321,CLTI,59.1,Female,28.5,0,Former,1,0,1,0.69,81.6,College_or_more,29100.0,White,Hispanic,2018-08-21,2021-03-02,2021-08-21,2021-03-02,Noncardiovascular,Death,,,2019-03-06,2018-09-22,,924.0,2.0,2018-09-22,32.0,1.0,197.0,1.0,924.0,1.0
+S1-322,CLTI,70.8,Female,30.8,1,Never,1,1,1,0.55,51.4,High_school_or_less,60500.0,White,Non_Hispanic,2019-04-08,2022-11-14,2022-04-08,,,ObservedBeyondThreeYears,2020-05-22,2020-03-13,2019-07-15,2022-03-19,2020-03-13,340.0,1.0,2019-07-15,98.0,1.0,98.0,1.0,1096.0,0.0
+S1-323,CLTI,73.5,Male,24.3,0,Former,1,0,0,0.52,41.4,High_school_or_less,63200.0,Black,Non_Hispanic,2018-06-24,2018-10-26,2021-06-24,2018-10-26,Noncardiovascular,Death,,,,,,124.0,2.0,,124.0,2.0,124.0,2.0,124.0,1.0
+S1-324,CLTI,61.4,Female,30.1,1,Never,1,1,0,0.48,74.3,High_school_or_less,26400.0,Other,Non_Hispanic,2019-02-05,2022-05-24,2022-02-05,2022-05-24,Noncardiovascular,Death,,,,,,1096.0,0.0,,1096.0,0.0,1096.0,0.0,1096.0,0.0
+S1-325,CLTI,63.2,Female,29.6,1,Never,1,0,1,0.52,73.6,College_or_more,58100.0,White,Non_Hispanic,2020-01-06,2020-07-29,2023-01-06,2020-07-29,Noncardiovascular,Death,,,,,,205.0,2.0,,205.0,2.0,205.0,2.0,205.0,1.0
